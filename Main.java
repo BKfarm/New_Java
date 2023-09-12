@@ -5,6 +5,6 @@ public class Main
         int age = 16;
         String greeting = "Hello Joe, whaddya know!";
         System.out.println(greeting);
-        System.out.println(age);
+        System.out.println(age + " Got beer?!");
     }
 }
